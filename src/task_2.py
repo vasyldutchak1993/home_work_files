@@ -9,7 +9,7 @@ You have a text file. Create a new file and write the following statistics based
 from functools import reduce
 
 FILE_TO_ANALYZE = "../storage/task_2.txt"
-STATISTICS_FILE="../storage/task_2_stat.txt"
+STATISTICS_FILE="../storage/task_2_temp.txt"
 
 """
 similar func  to easy to understand 
