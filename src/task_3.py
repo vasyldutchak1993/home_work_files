@@ -3,7 +3,7 @@ You have a text file. Delete the last line from it. Write
 the result to another file
 """
 FILE = "../storage/task_3.txt"
-FILE_TO_SAVE="../storage/task_3_copy.txt"
+FILE_TO_SAVE="../storage/task_3_temp.txt"
 
 def copy_without_last_line(file_to_read,file_to_save=FILE_TO_SAVE):
     try:
