@@ -177,4 +177,4 @@ cython_debug/
 .idea/
 
 #projects temp files
-task_*_temp.txt
+storage/task_*_temp.txt
